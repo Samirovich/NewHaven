@@ -1,0 +1,52 @@
+{
+  "name": "new_haven_dev_simple",
+  "padlock": "cIxPpXHSRYBq0vgRiTHiwg==!/F+0DFZHeEvan8HsSXzQl4HqBYw3ebPUp7wbczHXPwtg0mOGKKnq9kiv1RNjQZtx",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "85ffb651-eb42-4702-ac4d-31f14c48d3f0",
+      "subscriptionId": "c4d8731a-34a5-4db5-9c9f-faa0269aec29",
+      "resourceGroup": "dev",
+      "serviceName": "new_haven_dev_simple",
+      "type": "abs",
+      "name": "new_haven_dev_simple",
+      "id": "1"
+    },
+    {
+      "connectionString": "uJAm6M/JfFgN0cuBNXFwOg==!QEysykz3YmRkhWbOKPcZlwlLzscLR3bROsCgmNuhOeiBLCGTY08Vt4TdRd6lxEtDiPW5hLravZOVw1DHCFpUfs8XNDpisPvmFpElgLFJmEYO2hrq/AvdoyWS91E/sT10hYoiD9dFbHGzFmb7z6aGookfcxxKE/z4z4iZVYCJmmlODOas86xYeT+5NJbEImxF154TAtvlRhGTwdWLSsK+d9lub0XDaEdHKpo+U43m0uM=",
+      "tenantId": "85ffb651-eb42-4702-ac4d-31f14c48d3f0",
+      "subscriptionId": "c4d8731a-34a5-4db5-9c9f-faa0269aec29",
+      "resourceGroup": "dev",
+      "serviceName": "newhavendevsimple82b3",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "9e99bd30-c38f-4a98-938a-6f5f3ff4d859",
+      "appPassword": "BeqqPstBEqcyMarpOjQWwA==!sXzUfoROolWyOsljqFgziyydUhnjcY6t3xGpvRWUa8w=",
+      "endpoint": "https://newhavendevsimple.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "GEwcgu3scxoyTDDNQkh+0A==!GsHHF7rV6xXnHAH7sSbelYKFJwXMVEUWs6Cco9ZXHHmmq7qePAlTswzHtu+2s/30",
+      "applicationId": "8a2bf67b-0f8d-4366-bb49-d044270f1af0",
+      "apiKeys": {},
+      "tenantId": "85ffb651-eb42-4702-ac4d-31f14c48d3f0",
+      "subscriptionId": "c4d8731a-34a5-4db5-9c9f-faa0269aec29",
+      "resourceGroup": "dev",
+      "serviceName": "new_haven_dev_simpleeo7nmv",
+      "type": "appInsights",
+      "id": "5"
+    }
+  ]
+}
